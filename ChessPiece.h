@@ -1,3 +1,5 @@
+// An abstract superclass for chess pieces
+
 #ifndef CHESSPIECE_H
 #define CHESSPIECE_H
 
