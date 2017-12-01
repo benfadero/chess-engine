@@ -39,8 +39,8 @@ class ChessBoard
     
  public:
   ChessBoard();
-  void submitMove(std::string, std::string);
-  void resetBoard();
+  void submitMove(std::string, std::string); // Used to submit moves
+  void resetBoard(); // Reset board to original state
   ~ChessBoard();
 };
 
